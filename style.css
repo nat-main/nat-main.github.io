@@ -24,22 +24,47 @@ h2 {
 
   .orange {
     background-color: purple;
+    padding: 25px;
+    font-size: 72px;
+    text-align: center;
+    border: thin solid black;
+    color: white;
   }
 
   .yellow {
     background-color: yellow;
+    padding: 25px;
+    font-size: 72px;
+    text-align: center;
+    border: thin solid black;
+    color: white;
   }
 
   .green {
     background-color: #00ff00;
+    padding: 25px;
+    font-size: 72px;
+    text-align: center;
+    border: thin solid black;
+    color: white;
   }
 
   .blue {
     background-color: blue;
+    padding: 25px;
+    font-size: 72px;
+    text-align: center;
+    border: thin solid black;
+    color: white;
   }
 
   .violet {
     background-color: black;
+    padding: 25px;
+    font-size: 72px;
+    text-align: center;
+    border: thin solid black;
+    color: white;
   }
   .button {
    background-color: white;
