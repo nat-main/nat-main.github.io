@@ -15,19 +15,7 @@ h2 {
 
   .center {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
-
-  .form-container {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    padding: 30px;
-    border: 1px solid #00ff00;
-    background-color: #f9f9f9;
+    margin: 0 auto;
   }
   
 
@@ -78,14 +66,17 @@ div {
    width: 50%;
 }
 
-.button2 {
-    background-color: white;
-    color: black;
-    padding: 20px;
-    text-align: center;
-    text-decoration: bold;
-    font-size: 12px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
- }
+form {
+    max-width: 500px;
+    margin: 150px auto;
+  }
+  
+  fieldset {
+    padding: 30px;
+  }
+  
+  input,
+  textarea,
+  button {
+    width: 100%;
+  }
