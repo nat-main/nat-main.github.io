@@ -12,7 +12,7 @@ div {
   }
 
   .red {
-    background-color: red;
+    background-color: orange;
   }
 
   .orange {
@@ -36,15 +36,13 @@ div {
   }
   .button {
    background-color: white;
-   border: 20px;
+   border: 20px solid black;
    color: black;
    padding: 20px;
    text-align: center;
-    text-decoration: bold;
-   display: inline-block;
+   text-decoration: bold;
    font-size: 36px;
    margin: 4px 2px;
+   display: block;
 }
-.button:hover {
-color: black;
-}
+   /* margin: 0 auto;
