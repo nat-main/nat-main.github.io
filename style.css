@@ -1,6 +1,6 @@
 
 body {
-    background-color:black;
+    background-color:skyblue;
 }
 
 h1 {
@@ -70,7 +70,7 @@ h2 {
    background-color: white;
    border: 20px solid black;
    color: black;
-   width: 100px;
+   width: 50px;
    padding: 20px;
    text-align: center;
    text-decoration: bold;
@@ -79,7 +79,6 @@ h2 {
    display: block;
    margin-left: auto;
    margin-right: auto;
-   width: 50%;
 }
 
 form {
@@ -95,12 +94,4 @@ form {
   textarea,
   button {
     width: 100%;
-  }
-
-  /*div {
-    padding: 25px;
-    font-size: 72px;
-    text-align: center;
-    border: thin solid black;
-    color: white;
   }
