@@ -70,7 +70,7 @@ h2 {
    background-color: white;
    border: 20px solid black;
    color: black;
-   width: 100px;
+   width: 200px;
    padding: 20px;
    text-align: center;
    text-decoration: bold;
@@ -84,6 +84,7 @@ h2 {
 .button2 {
     background-color: white;
     border: thin solid black;
+    color: black;
  }
 
 form {
