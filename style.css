@@ -1,6 +1,6 @@
 
 body {
-    background-color:black;
+    background-color:purple
 }
 
 div {
@@ -12,7 +12,7 @@ div {
   }
 
   .red {
-    background-color: green;
+    background-color: red;
   }
 
   .orange {
