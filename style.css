@@ -19,11 +19,11 @@ h2 {
   }
   
   .red {
-    background-color: orange;
+    background-color: red;
   }
 
   .orange {
-    background-color: purple;
+    background-color: orange;
     padding: 25px;
     font-size: 72px;
     text-align: center;
@@ -50,7 +50,7 @@ h2 {
   }
 
   .blue {
-    background-color: blue;
+    background-color: purple;
     padding: 25px;
     font-size: 72px;
     text-align: center;
