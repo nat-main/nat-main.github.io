@@ -88,8 +88,9 @@ h2 {
 
 .button2 {
     background-color: white;
-    border: thin solid black;
+    border: 3px black;
     color: black;
+    font-family: 'Times New Roman', Times, serif;
  }
 
 form {
