@@ -88,7 +88,7 @@ h2 {
 
 .button2 {
     background-color: white;
-    border: thin black;
+    border: 5px solid black;
     color: black;
     border: 5px solid black;
     font-family: 'Times New Roman', Times, serif;
@@ -107,6 +107,7 @@ form {
   textarea,
   button {
     width: 100%;
+    border: 5px solid black;
   }
 
 .checkbox {
