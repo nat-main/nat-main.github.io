@@ -106,3 +106,9 @@ form {
   button {
     width: 100%;
   }
+
+.checkbox {
+  align: left;
+  width: 20px;
+  height: 20px; 
+}
