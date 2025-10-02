@@ -1,6 +1,6 @@
 
 body {
-    background-color:green
+    background-color:#fc4639
 }
 
 h1 {
@@ -16,51 +16,6 @@ h2 {
   .center {
     display: block;
     margin: 0 auto;
-  }
-  
-  .red {
-    background-color: red;
-    padding: 25px;
-    font-size: 72px;
-    text-align: center;
-    border: thin solid black;
-    color: white;
-  }
-
-  .orange {
-    background-color: orange;
-    padding: 25px;
-    font-size: 72px;
-    text-align: center;
-    border: thin solid black;
-    color: white;
-  }
-
-  .yellow {
-    background-color: yellow;
-    padding: 25px;
-    font-size: 72px;
-    text-align: center;
-    border: thin solid black;
-    color: white;
-  }
-
-  .green {
-    background-color: green;
-    padding: 25px;
-    font-size: 72px;
-    text-align: center;
-    border: thin solid black;
-    color: white;
-  }
-
-  .blue {
-    background-color: blue;
-    padding: 25px;
-    font-size: 72px;
-    text-align: center;
-    border: thin solid black;
-    color: white;
   }
 
   .violet {
