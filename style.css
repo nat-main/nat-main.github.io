@@ -164,12 +164,11 @@ h2 {
 form {
     max-width: 500px;
     margin: 150px auto;
-    font: white; 
   }
   
   fieldset {
     padding: 30px;
-    border: 5px solid black;
+    border: 5px solid blue;
   }
   
   input,
