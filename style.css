@@ -119,3 +119,18 @@ form {
   height: 50px; 
   border: 5px solid black;
 }
+
+.gallery {
+  display: grid;
+  /* Automatically adjust column count based on screen size */
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem; /* Space between grid items */
+}
+
+.gallery img {
+  width: 100%; /* Ensure images fill their grid cell width */
+  height: 100%; /* Ensure images fill their grid cell height */
+  object-fit: cover; /* Crop images to cover the area without distortion */
+  display: block; /* Remove unwanted whitespace issues */
+
+}
