@@ -1,19 +1,10 @@
 
 
 body {
-  background-color: yellow
+  background-color: purple
 ;
 }
 
-h1 {
-  margin-top: 0px;
-  text-align: center;
-  margin-bottom: 20px;
-  font-size: 70px;
-  background: linear-gradient(to right, red, purple, blue, green, orange, red);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
 
 h2 {
     text-align: center;
