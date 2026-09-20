@@ -1,6 +1,6 @@
 
-
 body {
+  background-image: linear-gradient(to top, red, yellow);
   background-color:white
 ;
 }
